@@ -94,7 +94,7 @@ function App() {
 
 return (
   <div className="app-container">
-    <a href="https://twitter.com/HdKamboj" target="_blank" rel="noopener noreferrer">Made by H+a+r+d+i+k+k = 7</a>
+   
     <h1>Thala for a reason</h1>
     {showGif && <h2>{transformedInput}</h2>}
     {showAltGif && <h2>{transformedInput}</h2>}
